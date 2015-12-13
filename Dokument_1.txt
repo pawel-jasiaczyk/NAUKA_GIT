@@ -1,3 +1,4 @@
 To jest pierszy wpis(błąd! poprawiam!).
-Jednak może inaczej?
-
+No to teraz jakiś test.
+Daszy cią testu...
+Skocznone!
