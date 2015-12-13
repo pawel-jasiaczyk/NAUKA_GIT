@@ -2,3 +2,5 @@ To jest pierszy wpis(błąd! poprawiam!).
 No to teraz jakiś test.
 Daszy cią testu...
 Skocznone!
+
+Wprowadzam zmiany w katalogu 2!
