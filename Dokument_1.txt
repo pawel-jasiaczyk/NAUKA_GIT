@@ -1,2 +1,3 @@
 To jest pierszy wpis.
 No to teraz jakiś test.
+Daszy cią testu...
